@@ -5,3 +5,4 @@ echo "Bonjour GitHub !" > test.txt
 git add test.txt
 git commit -m "Ajout d'un fichier test"
 git push
+# Bienvenue sur mon projet les enfants
